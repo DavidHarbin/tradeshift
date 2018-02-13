@@ -2,7 +2,7 @@
 
 # define the IP address and hostname of the puppetmaster
 
-PM_IP=34.214.79.56
+PM_IP=34.209.95.41
 PM_HOSTNAME=linuxmdm
 
 # add the puppetmaster's hostname to DNS
